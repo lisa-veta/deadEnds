@@ -14,4 +14,12 @@ namespace deadEnds
             return stroka;
         }
     }
+
+    internal class Class1
+    {
+        public string Jk(string s)
+        {
+            return s;
+        }
+    }
 }
