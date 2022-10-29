@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace deadEnds
 {
-    internal class Class1
+    internal class Class2
     {
         public string smi(string stroka)
         {
